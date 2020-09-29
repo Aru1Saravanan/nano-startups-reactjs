@@ -1,0 +1,6 @@
+{
+  "short_name": "Nano Start Up App",
+  "name": "Nanotechnology Based Startup Collector App",
+  "start_url": ".",
+  "display": "standalone"
+}
